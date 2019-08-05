@@ -2,9 +2,13 @@
 
 ## Products developed in Java - J2SE Platform
 
-• Developed during 2008 - 2009 for accadamic project.
+• Developed during 2008 - 2009 for accadamic projects.
 
-• Developed using Java Programing language with Java Swings technlogy.
+• Developed using Java Programing language with **Java Swings** technlogy.
+
+### Desktop Applications
+  * **Home Plan Designer**
+  * **Supermarket Automation**
 
 # LICENSE
 **Copyright (C) 2005 - 2019 venisoft.com - All Rights Reserved.** 

@@ -1,0 +1,3 @@
+javac HomePlanDesigner.java
+java HomePlanDesigner
+exit
